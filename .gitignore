@@ -1,0 +1,5 @@
+# Git ignore file
+target/
+*.log
+*.class
+*.jar
